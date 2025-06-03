@@ -1,14 +1,11 @@
 # Sales-Dashboard-in-Power-BI
 
-Objective: Analyzing data and building an interactive dashboard on product sales from the company.
+#Objective: Analyzing data and building an interactive dashboard on product sales from the company.
+
+#Tools/Skills: Power BI, Excel, Data Visualization. Building Dashboard.
 
 
-
-Tools/Skills: Power BI, Excel, Data Visualization. Building Dashboard.
-
-​
-
-Actions & Findings:
+#Actions & Findings:
 
 Data import and transformation: Import data from Excel or CSV files and use Power Query Editor for data cleanup and formatting.
 
