@@ -3,6 +3,7 @@
 Objective: Analyzing data and building an interactive dashboard on product sales from the company.
 
 
+
 Tools/Skills: Power BI, Excel, Data Visualization. Building Dashboard.
 
 ​
